@@ -1,0 +1,11 @@
+C:\Users\14434\Desktop\windows programming\Invontory\Invontory\bin\Debug\Invontory.exe.config
+C:\Users\14434\Desktop\windows programming\Invontory\Invontory\bin\Debug\Invontory.exe
+C:\Users\14434\Desktop\windows programming\Invontory\Invontory\bin\Debug\Invontory.pdb
+C:\Users\14434\Desktop\windows programming\Invontory\Invontory\obj\Debug\Invontory.csproj.AssemblyReference.cache
+C:\Users\14434\Desktop\windows programming\Invontory\Invontory\obj\Debug\Invontory.csproj.SuggestedBindingRedirects.cache
+C:\Users\14434\Desktop\windows programming\Invontory\Invontory\obj\Debug\Invontory.Form1.resources
+C:\Users\14434\Desktop\windows programming\Invontory\Invontory\obj\Debug\Invontory.Properties.Resources.resources
+C:\Users\14434\Desktop\windows programming\Invontory\Invontory\obj\Debug\Invontory.csproj.GenerateResource.cache
+C:\Users\14434\Desktop\windows programming\Invontory\Invontory\obj\Debug\Invontory.csproj.CoreCompileInputs.cache
+C:\Users\14434\Desktop\windows programming\Invontory\Invontory\obj\Debug\Invontory.exe
+C:\Users\14434\Desktop\windows programming\Invontory\Invontory\obj\Debug\Invontory.pdb
